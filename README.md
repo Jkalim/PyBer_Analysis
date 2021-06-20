@@ -27,11 +27,11 @@ The PyBer analysis shows the differences in ride share between rural, urban and 
 -The urban city type has 1,625 total rides, 2,405 total drivers, and a total fare of $39,854.36 which yields
   an average fare of $24.53 per ride and $16.57 per driver. 
 
-- In general, the urban city type has the highest total weekly fare, followed by the surburban city type, then 
+-In general, the urban city type has the highest total weekly fare, followed by the surburban city type, then 
   the rural city type; however, the rural city type has the highest avearage fare per ride and driver followed 
   by surburban then urban type. 
  
-- The following figure show how consistently these fares are higher than others every week:
+-The following figure show how consistently these fares are higher than others every week:
   plt.savefig("/Users/jkstuff/Desktop/Data Analytics/PyBer_Analysis/Resources/PyBer_fare_summary.png")  
   
   ## Challenge Summary
@@ -43,4 +43,4 @@ The PyBer analysis shows the differences in ride share between rural, urban and 
   - Increase the number of drivers in the surburban community in order to compete with the urban type
 
   - Increase the fare amount in the urban community as it generates more request to improve the average fare per ride and driver. 
-  - 
+  
